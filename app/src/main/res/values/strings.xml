@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+
+    <!-- Questions Strings -->
+    <string name="first_question">1) Você diria que se alimenta bem?</string>
+    <string name="second_question">2) Vai rolar um casamento com uma festança bapho logo em seguida. Você é do tipo que:</string>
+    <string name="third_question">3) Quantas vezes por semana você come chocolate?</string>
+    <string name="fourth_question">4) Rolou aquele imprevisto e você vai chegar mais tarde em casa. E agora?</string>
+    <string name="fifth_question">5) Qual é o melhor passeio para fazer com a galera reunida?</string>
+    <string name="sixth_question">6) Como é o seu dia a dia?</string>
+    <string name="seventh_question">7) Se você dividir o seu peso pela sua altura ao quadrado, o resultado de seu IMC (Índice de Massa Corpórea) é:</string>
+    <string name="eighth_question">8) O que você sente quando se olhar no espelho?</string>
+    <string name="ninth_question">9) Sua mãe precisa Insistir para você comer mais verduras e legumes?</string>
+    <string name="tenth_question">10) Complete a frase: “À noite, eu...”:</string>
+
+    <!-- Alternatives Strings -->
+
+    <!-- First question -->
+    <string name="q1_alt1">"Muito! Já que faço academia, adoro comer coisas leves de três em três horas e controlar as calorias."</string>
+    <string name="q1_alt2">"Ah... Como muito, mas, na maioria das vezes, são sempre besteiras."</string>
+    <string name="q1_alt3">"Acho que sim. Meu prato ê sempre bem colorido, apesar de não resistir a um docinho depois do almoço."</string>
+    <string name="q1_alt4">"Não. Só gosto de macarrão, batata frita... Coisas que me sustentam!”</string>
+
+    <!-- Second question -->
+    <string name="q2_alt1">Não come nada o dia inteiro para aproveitar bastante a festa.</string>
+    <string name="q2_alt2">Já se prepara para atacar a mesinha de doces! Rs</string>
+    <string name="q2_alt3">Faz uma boquinha antes para não exagerar na hora, né?</string>
+    <string name="q2_alt4">Come um pouquinho de tudo, mas não passa dos limites.</string>
+
+    <!-- Third question -->
+    <string name="q3_alt1">"Uma vez por dia. Não tem como!"</string>
+    <string name="q3_alt2">"Por semana? Como mais de uma vez por dia. #fato"</string>
+    <string name="q3_alt3">"Um dia sim, um dia não. Depende da minha vontade."</string>
+    <string name="q3_alt4">"Só aos fins de semana."</string>
+
+    <!-- Fourth question -->
+    <string name="q4_alt1">Compra um salgado em alguma lanchonete mesmo e compensa no dia seguinte.</string>
+    <string name="q4_alt2">Dá um jeitinho de comer algo mais leve para dar aquela forrada.</string>
+    <string name="q4_alt3">Não come nada e espera chegar em casa para devorar o que tiver pela frente: pão, miojo, bolacha...</string>
+    <string name="q4_alt4">Corre para um fast-food e pede um lanche bem caprichado.</string>
+
+    <!-- Fifth question -->
+    <string name="q5_alt1">Ir para a balada. Afinal, tá não tem comida e você não cai na tentação.</string>
+    <string name="q5_alt2">Sair para jantar com as bests. Vocês sempre exageram um pouquinho, mas compensam depois.</string>
+    <string name="q5_alt3">Ser convidada para uma festinha infantil do irmão da amiga, com muita coxinha, mini-pizza...</string>
+    <string name="q5_alt4">Passear no parque e aproveitar para tomar uma água de coco, bem gelatina, muito bom!</string>
+
+    <!-- Sixth question -->
+    <string name="q6_alt1">"Passo bastante tempo sentada, mas cuido bastante da alimentação."</string>
+    <string name="q6_alt2">"Sou completamente sedentária: da escola para o PC, do PC para a escola."</string>
+    <string name="q6_alt3">"Não curto academia, mas procuro me exercitar de outras formas, como andando de skate, correndo..."</string>
+    <string name="q6_alt4">Marco ponto na academia, à tarde, de manhã... Quando tenho um tempinho livre, aproveito para malhar."</string>
+
+    <!-- Seventh question -->
+    <string name="q7_alt1">Entre 19 e 25.</string>
+    <string name="q7_alt2">Entre 25 e 30.</string>
+    <string name="q7_alt3">Acima de 30.</string>
+    <string name="q7_alt4">Abaixo de 18.</string>
+
+    <!-- Eighth question -->
+    <string name="q8_alt1">Não fica 100% satisfeita, mas está feliz com o que vê refletido.</string>
+    <string name="q8_alt2">Não sente nada, pois evita se olhar para não ficar mal depois.</string>
+    <string name="q8_alt3">Odeia encarar a triste realidade.</string>
+    <string name="q8_alt4">Orgulho! Ver o seu reflexo é uma das coisas que você mais curte!</string>
+
+    <!-- Ninth question -->
+    <string name="q9_alt1">"Ela não liga muito para isso."</string>
+    <string name="q9_alt2">"E o contrário! Ela tenta fazer com que eu saía da linha às vezes! Rs"</string>
+    <string name="q9_alt3">"Sempre! Ela diz que sou ruim para comer desde pequena."</string>
+    <string name="q9_alt4">"De vez em quando. Mas, como ela sabe que como verdura durante a semana, então está tudo certo."</string>
+
+    <!-- Tenth question -->
+    <string name="q10_alt1">"Sinto sempre muita fome!"</string>
+    <string name="q10_alt2">"Gosto de comer algo mais leve, como uma sopa ou uma saladinha."</string>
+    <string name="q10_alt3">"Faço um lanchinho de pão com frios e está ótimo!"</string>
+    <string name="q10_alt4">"Não janto. Simples assim."</string>
+
+    <!-- Button -->
+    <string name="btn_calc">Calcular</string>
+
+    <!-- Result -->
+    <string name="result">Sua pontuação foi de: </string>
+
+    <!-- 0 to 10 points -->
+    <string name="zero_to_ten_title">Só nas calorias</string>
+    <string name="zero_to_ten_content">Ninguém vive só de pizza e brigadeiro né? Claro que tudo isso é uma delícia, mas nosso corpo precisa de um pouco de tudo: carboidratos, proteínas, fibras... Consultar um nutricionista pose ser uma ótima maneira de começar.</string>
+
+    <!-- 11 to 20 points -->
+    <string name="eleven_to_twenty_title">#partiumalhar</string>
+    <string name="eleven_to_twenty_content">Cuidar da alimentação é o primeiro passo para uma vida saudável. Lembre: Você é aquilo que você come. Fazer algum exercício físico também ajuda a manter o peso em equilíbrio. Pode ser jazz, natação, vôlei... Bora se mexer?</string>
+
+    <!-- 21 to 28 points -->
+    <string name="twenty_one_to_twenty_eight_title">Viva a genética</string>
+    <string name="twenty_one_to_twenty_eight_content">Às vezes, rolam algumas encanações com o corpo, certo? Mas, mesmo assim, você sabe que é bonita do seu jeito e não precisa fazer muita coisa para continuar de bem com a balança. Só fique esperta para também manter a saúde em dia!</string>
+
+    <!-- 29 to 40 points -->
+    <string name="twenty_nine_to_forty_title">Garota Fitness</string>
+    <string name="twenty_nine_to_forty_content">Comer frutas nos intervalos das refeições, se exercitar três vezes por semana e não jantar coisa muito pesadas: é assim que você leva a vida. Parabéns pelo foco! Só que não precisa virar a doida da dieta, combinado? Tudo em exagero acaba sendo prejudicial a saúde.</string>
+</resources>
